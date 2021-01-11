@@ -1,4 +1,4 @@
 resource "aws_instance" "ex" {
-ami = "ami-0bdfb42effc4b150f"
+ami = "ami-0a36eb8fadc976275"
 instance_type = "t2.micro"
 }
